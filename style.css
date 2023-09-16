@@ -1,0 +1,47 @@
+ 
+body{
+    background-color: rgb(169, 204, 174)
+
+}
+    
+h1{
+    font-size: 70px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 10px;
+}
+h2{
+    color: rgb(42, 51, 184);
+    font-size: 40px;
+    margin-bottom: 100px;
+
+}
+
+#about h1{
+    column-rule-color: blanchedalmond; font-size: 30;
+    background-position-x: center;
+
+}
+#contacts h1{
+    size: 30px;
+    font: bold;
+    colour: white;
+}
+#ul{
+    list-style-type: none;
+    background-color: black;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    
+    
+}
+
+#ancer{
+    display: block;
+    column-rule-color: white;
+    text-align: center;
+    padding:14px 16px;
+    text-decoration: none;
+
+}
